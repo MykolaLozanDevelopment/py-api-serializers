@@ -1,7 +1,7 @@
 asgiref==3.12.1
 Django==5.0.8
-django-stubs==4.4.3
-django-stubs-ext==4.4.3
+django-stubs==5.1.0
+django-stubs-ext==5.1.0
 djangorestframework==3.18.0
 djangorestframework-stubs==3.18.0
 flake8==6.0.0
